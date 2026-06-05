@@ -1,0 +1,6 @@
+{
+  "name": "Sunat Konten",
+  "description": "Platform profesional penganalisis klip video YouTube viral dengan AI. Dapatkan rekomendasi stempel waktu akurat, cetak biru editing detik demi detik, transkrip, subtitle, efek suara (SFX), dan takarir viral siap pakai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
